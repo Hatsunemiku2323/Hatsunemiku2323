@@ -22,12 +22,12 @@ O código da Negi é privado, mas dá pra conhecer o projeto por aqui:
 🌐 [Site da Negi](https://negi-website.vercel.app)
 💬 [Servidor oficial da Negi](https://discord.gg/PpVtMgDswB)
 
-💻 O que eu uso
+<img src="./typer.svg" width="15"> Typer O que eu uso
 
-<img src="./python.svg" width="20"> Python
-🤖 discord.py
-🗃️ SQLite
-🐙 Git / GitHub
+<img src="./python.svg" width="15"> Python
+ discord.py
+<img src="./pastebin.svg" width="15"> Pastebin SQLite
+<img src="./github.svg" width="15"> GitHub Git / GitHub
 
 🧠 Sobre meus projetos
 
