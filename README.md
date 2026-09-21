@@ -24,7 +24,7 @@ O código da Negi é privado, mas dá pra conhecer o projeto por aqui:
 
 💻 O que eu uso
 
-<img src="./python.svg" width="40"> Python
+<img src="./python.svg" width="20"> Python
 🤖 discord.py
 🗃️ SQLite
 🐙 Git / GitHub
