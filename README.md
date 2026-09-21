@@ -41,4 +41,7 @@ Mas é justamente daí que saem algumas das ideias mais legais.
 
 «💚 Criar alguma coisa aleatória, ver se funciona e depois descobrir onde aquilo pode chegar.»
 
-https://media.discordapp.net/attachments/1550683222969552916/1550683223594377286/AISelect_20260917_233224_ibisPaint_X.gif
+
+<p align="center">
+  <img src="./AISelect_20260917_233224_ibisPaint_X.gif" width="400">
+</p>
