@@ -19,15 +19,14 @@ A Negi é o meu principal projeto atualmente.
 
 O código da Negi é privado, mas dá pra conhecer o projeto por aqui:
 
-🌐 "Site da Negi" (https://negi-website.vercel.app)
-💬 "Servidor oficial da Negi" (https://discord.gg/PpVtMgDswB)
+🌐 [Site da Negi] (https://negi-website.vercel.app)
+💬 [Servidor oficial da Negi] (https://discord.gg/PpVtMgDswB)
 
 💻 O que eu uso
 
 🐍 Python
 🤖 discord.py
 🗃️ SQLite
-🔗 APIs
 🐙 Git / GitHub
 
 🧠 Sobre meus projetos
