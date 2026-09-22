@@ -25,9 +25,9 @@ O código da Negi é privado, mas dá pra conhecer o projeto por aqui:
 <img src="./typer.svg" width="15"> O que eu uso
 
 <img src="./python.svg" width="15"> Python
-<img src="./discord.svg" width="15"> discord.py
+ <img src="./discord.svg" width="15"> discord.py
 <img src="./pastebin.svg" width="15"> SQLite
-<img src="./github.svg" width="15"> Git / GitHub
+ <img src="./github.svg" width="15"> Git / GitHub
 
 🧠 Sobre meus projetos
 
